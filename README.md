@@ -48,7 +48,7 @@ configura la variable de `BACKEND_URL` con la url de tu codespaces backend (puer
 
 **6- Levanta el proyecto**
 mediante los comandos `$npm run start` levantando el front y `$pipenv run start` levantando el back
-- ¡¡Compara y descrubre nuevos juegos!!
+- ¡¡Compara y descubre nuevos juegos!!
 
 ### 🖥️ Configuración en entorno local
 **0- Requisitos previos**
